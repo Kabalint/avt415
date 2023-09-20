@@ -1,0 +1,31 @@
+body {
+  background-color: #ead1dc;
+  font-family: arial;
+  padding-left: 150px;
+  padding-right: 150px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  color: #5b5b5b;
+}
+h1{
+  font-size: 90px;
+  text-align: center;
+  font-family: kanit;
+  font-weight: semibold;
+  color: #ce7e00;
+}
+h2{
+  font-family: kanit;
+  font-size: 30px;
+  color: #a64d79;
+}
+h3{
+  font-family: mooli;
+  font-size: 18px;
+}
+h4{
+  color: #ce7e00;
+  text-align: center;
+  font-family: kanit;
+  font-size: 20px;
+}
